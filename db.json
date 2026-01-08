@@ -1,0 +1,28 @@
+[
+  {
+    "nome": "Teclado",
+    "preco": 25,
+    "id": 1767898434299
+  },
+  {
+    "nome": "monitor",
+    "categoria": "tela",
+    "preco": 200,
+    "estoque": 5,
+    "id": 1767899164308
+  },
+  {
+    "nome": "fone",
+    "categoria": "fone de ouvido",
+    "preco": 250,
+    "estoque": 10,
+    "id": 1767899314352
+  },
+  {
+    "nome": "Mouse",
+    "categoria": "mouse",
+    "preco": 15,
+    "estoque": 15,
+    "id": 1767903615992
+  }
+]
